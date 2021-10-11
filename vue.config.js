@@ -1,3 +1,3 @@
 module.exports={
-    publicPath:'/origami/'
+    publicPath:'/origami2.0/'
 }
