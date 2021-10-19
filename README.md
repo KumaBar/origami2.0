@@ -5,4 +5,4 @@
 * Слайдер
 * Корзина
 * Свой набор
-# Посмотреть онлайн можно тут https://origami-apprst.herokuapp.com/
+# Посмотреть онлайн можно тут https://kumabar.github.io/origami2.0/#/
